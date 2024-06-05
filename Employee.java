@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This class contains the information about the Employees
+=======
+Iam Updating the code...
+This class contains the information about the Employees...
+>>>>>>> b9c9c53 (updated code)
